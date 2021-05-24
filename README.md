@@ -1,1 +1,1 @@
-# vimstuff
+Configuration files for VIM.
